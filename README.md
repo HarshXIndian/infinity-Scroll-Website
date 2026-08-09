@@ -2,9 +2,6 @@
 
 > A sleek, infinite-scrolling image gallery powered by the **Unsplash API**. Scroll endlessly and discover stunning photography — seamless, fast, and beautiful.
 
-![GitHub repo size](https://img.shields.io/github/repo-size/harshxindian/infinity-scroll)
-![GitHub stars](https://img.shields.io/github/stars/harshxindian/infinity-scroll?style=social)
-![GitHub license](https://img.shields.io/github/license/harshxindian/infinity-scroll)
 
 ---
 
