@@ -2,7 +2,6 @@
 
 > A sleek, infinite-scrolling image gallery powered by the **Unsplash API**. Scroll endlessly and discover stunning photography — seamless, fast, and beautiful.
 
-
 ---
 
 ## ✨ Features
@@ -20,7 +19,7 @@
 
 ## 🚀 Live Demo
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://harshxindian.github.io/infinity-scroll)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://harshxindian.github.io/infinity-Scroll-Website/)
 
 ---
 
@@ -57,7 +56,7 @@
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/harshxindian/infinity-scroll.git
+   git clone https://harshxindian.github.io/infinity-Scroll-Website.git
    cd infinity-scroll
    ```
 
@@ -96,7 +95,7 @@ const KEY = `your_unsplash_api_key_here`;
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!  
-Feel free to check the [issues page](https://github.com/harshxindian/infinity-scroll/issues).
+Feel free to check the [issues page](https://harshxindian.github.io/infinity-Scroll-Website/issues).
 
 ---
 
