@@ -1,0 +1,22 @@
+{
+  "name": "infinity-scroll",
+  "version": "1.0.0",
+  "description": "Infinite Scroll image gallery powered by Unsplash API — seamlessly loads stunning photos as you scroll.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Harsh -v3",
+  "license": "ISC",
+  "homepage": "https://github.com/harshxindian/infinity-scroll#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harshxindian/infinity-scroll.git"
+  },
+  "bugs": {
+    "url": "https://github.com/harshxindian/infinity-scroll/issues"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.6.0"
+  }
+}
